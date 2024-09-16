@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  display: grid;
+  margin: 0;
+}
+
+iframe {
+  border: 0;
+  height: 33.3vh;
+  width: 100vw;
+}
