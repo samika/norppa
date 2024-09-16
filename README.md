@@ -6,5 +6,3 @@
 
 # Future plans
 * High Availability - Introduce espoo Datacenter
-* Offline experience with service worker
-
